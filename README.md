@@ -1,4 +1,4 @@
 # firstapp4 
 version 1.0
-1. Создано: Web-приложения
-2. Добавлено: файл Deplou.log из wildfly(standalone.bat)
+1. Создано: Web-приложение
+2. Добавлено: файл Deploy.log из wildfly(standalone.bat)
