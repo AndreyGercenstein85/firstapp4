@@ -1,0 +1,23 @@
+18:25:56,034 INFO  [org.jboss.as.repository] (management-handler-thread - 1) WFLYDR0001: Content added at location C:\TRAIN_GEEK\JavaEE\wildfly-19.0.0.Beta3\sta
+ndalone\data\content\d5\12253bb04717032fd46f70ba790d420537de8f\content
+18:25:56,061 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "firstapp4.war" (runtime-name: "firstapp4.war")
+
+18:26:00,560 INFO  [org.infinispan.factories.GlobalComponentRegistry] (MSC service thread 1-4) ISPN000128: Infinispan version: Infinispan 'Infinity Minus ONE +2
+' 9.4.18.Final
+18:26:00,919 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 78) WFLYCLINF0002: Started client-mappings cache from ejb container
+18:26:02,487 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 81) WFLYUT0021: Registered web context: '/firstapp4' for server 'default-serve
+r'
+18:26:02,584 INFO  [org.jboss.as.server] (management-handler-thread - 1) WFLYSRV0010: Deployed "firstapp4.war" (runtime-name : "firstapp4.war")
+18:35:14,235 INFO  [org.jboss.as.repository] (management-handler-thread - 1) WFLYDR0001: Content added at location C:\TRAIN_GEEK\JavaEE\wildfly-19.0.0.Beta3\sta
+ndalone\data\content\6d\9a8d5cbcad541efbf7e6719ac0f5e1bd3c9271\content
+18:35:14,251 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 81) WFLYUT0022: Unregistered web context: '/firstapp4' from server 'default-se
+rver'
+18:35:14,323 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0028: Stopped deployment firstapp4.war (runtime-name: firstapp4.war) in 81ms
+
+18:35:14,327 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-4) WFLYSRV0027: Starting deployment of "firstapp4.war" (runtime-name: "firstapp4.war")
+
+18:35:14,469 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 81) WFLYUT0021: Registered web context: '/firstapp4' for server 'default-serve
+r'
+18:35:14,520 INFO  [org.jboss.as.server] (management-handler-thread - 1) WFLYSRV0016: Replaced deployment "firstapp4.war" with deployment "firstapp4.war"
+18:35:14,527 INFO  [org.jboss.as.repository] (management-handler-thread - 1) WFLYDR0002: Content removed from location C:\TRAIN_GEEK\JavaEE\wildfly-19.0.0.Beta3
+\standalone\data\content\d5\12253bb04717032fd46f70ba790d420537de8f\content
